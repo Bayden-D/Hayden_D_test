@@ -1,7 +1,7 @@
-#include<stdio.h>
-
+#include<iostream>
+using namespace std;
 int main() {
-	printf("hello world!!");
-	getchar();
+	cout << "hello word" << endl;
+	system("pause");
 	return 0;
-}
+} 
